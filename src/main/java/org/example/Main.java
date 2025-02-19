@@ -6,16 +6,16 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Main class");
+
         System.out.println("Estamo Aprendiendo Comandos Git");
+
         System.out.println("Repasando Comandos");
         System.out.println("Repasando Comandos");
-        System.out.println("Repasando Comandos");
-        System.out.println("Repasando Comandos");
-        System.out.println("Repasando Comandos");
-        System.out.println("Repasando Comandos");
-        System.out.println("Repasando Comandos");
-        System.out.println("Repasando Comandos");
-        System.out.println("Repasando Comandos");
+
+        System.out.println("SUMA");
+        System.out.println("RESTA");
+        System.out.println("MULTIPLICAION");
+        System.out.println("DIVISION");
 
     }
 }
