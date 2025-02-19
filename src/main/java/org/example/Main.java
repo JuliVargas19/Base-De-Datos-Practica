@@ -17,5 +17,12 @@ public class Main {
         System.out.println("MULTIPLICAION");
         System.out.println("DIVISION");
 
+        System.out.println("DDL");
+        System.out.println("DML");
+        System.out.println("TCL");
+        System.out.println("COMANDOS BASES DE DATOS");
+        System.out.println("COMANDOS BASES DE DATOS1");
+        System.out.println("COMANDOS BASES DE DATOS2");
+
     }
 }
